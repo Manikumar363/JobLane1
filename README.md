@@ -29,7 +29,7 @@ To get started with the assignment project, follow these steps:
 
 ### Prerequisites
 
-- **Node.js**: Make sure you have Node.js installed on your computer. You can download it from [nodejs.org](https://nodejs.org).
+- **Node.js**: Make sure you have the Node.js installed on your computer. You can download it from [nodejs.org](https://nodejs.org).
 
 ### Installation
 
